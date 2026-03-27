@@ -165,7 +165,7 @@ body {
 }
 
 .portfolio-card-text {
-    /* border: 1px solid rgba(231, 233, 252, 1); */
+    /* border: 1px solid var(--accent-color); */
 }
 
 .main-footer {
